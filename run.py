@@ -25,7 +25,7 @@ def main(argv):
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h' or opt == '--help':
-            print("Backup version 0.1b by Hossein Rafiei - [help]\n")
+            print("Backup version 0.1b by Hossein Rafiee <h.rafiee91@gmail.com> - [help]\n")
             print('run.py --path=<optional: path>')
             print("-------------------------------------")
             print("• default path: /var/tmp/scrapy-de\n")
